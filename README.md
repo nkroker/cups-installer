@@ -1,14 +1,13 @@
-# cups-installer
-libcups-installer
+# cups-installer: libcups-installer
 
-## Prerequisite
+### Prerequisite
 ```bash
 sudo apt install curl
 ```
-## How to use
+### How to use
  > Just run this single command
 
-### For installing Kuberneres on server
+### For installing on machine
 ```bash
 sudo curl "https://raw.githubusercontent.com/nkroker/cups-installer/master/script.sh" | bash
 ```
